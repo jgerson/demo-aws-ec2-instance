@@ -9,5 +9,8 @@
 # Module directory
 .terraform/
 
+# Pycharms info
+.idea/
+
 # SSH Keys
 *.pem
